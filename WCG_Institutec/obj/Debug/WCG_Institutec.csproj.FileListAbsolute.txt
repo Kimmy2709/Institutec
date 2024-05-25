@@ -10,3 +10,15 @@ C:\desarrolloDeAplicaciones2\S5\WCG_Institutec\obj\Debug\WCG_Institutec.csproj.C
 C:\desarrolloDeAplicaciones2\S5\WCG_Institutec\obj\Debug\WCG_Institutec.csproj.CopyComplete
 C:\desarrolloDeAplicaciones2\S5\WCG_Institutec\obj\Debug\WCG_Institutec.dll
 C:\desarrolloDeAplicaciones2\S5\WCG_Institutec\obj\Debug\WCG_Institutec.pdb
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\bin\Debug\WCG_Institutec.dll.config
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\bin\Debug\WCG_Institutec.dll
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\bin\Debug\WCG_Institutec.pdb
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\bin\Debug\EntityFramework.dll
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\bin\Debug\EntityFramework.SqlServer.dll
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\bin\Debug\EntityFramework.xml
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\bin\Debug\EntityFramework.SqlServer.xml
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\obj\Debug\WCG_Institutec.csproj.AssemblyReference.cache
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\obj\Debug\WCG_Institutec.csproj.CoreCompileInputs.cache
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\obj\Debug\WCG_Institutec.csproj.CopyComplete
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\obj\Debug\WCG_Institutec.dll
+D:\Software-development\5 ciclo\APPSII\Proyecto_Institutec_2\WCG_Institutec\obj\Debug\WCG_Institutec.pdb

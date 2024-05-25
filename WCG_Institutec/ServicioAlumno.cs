@@ -247,7 +247,6 @@ namespace WCG_Institutec
                 }
             }
         }
-
         public Boolean ActualizarAlumno(AlumnoDC objAlumnoDC)
         {
             try
@@ -283,7 +282,6 @@ namespace WCG_Institutec
                 throw new Exception(ex.Message);
             }
         }
-
         public String ObtenerFacultadAlumno(String strIdAlum)
         {
             try
@@ -307,7 +305,6 @@ namespace WCG_Institutec
                 throw new Exception(ex.Message);
             }
         }
-
         public String ObtenerCarreraAlumno(String strIdAlum)
         {
             try

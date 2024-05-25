@@ -208,10 +208,6 @@ namespace ProyInstitutec_GUI
                 MessageBox.Show("Error : " + ex.Message);
 
             }
-
-
-
-
         }
         private void mskDNIAlu_KeyPress(object sender, KeyPressEventArgs e)
         {
